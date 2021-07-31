@@ -11,12 +11,18 @@ The user interaction is as follows:
 IMPLEMENTATION SCREENSHOTS:
 
 Input:
+
+
 ![Capture](https://user-images.githubusercontent.com/87566904/127742580-f0313400-1be5-48b3-9a8c-de86cbb8d7d6.JPG)
 
 Steps:
+
+
 ![Capture2](https://user-images.githubusercontent.com/87566904/127742639-1e434ea4-81ea-4762-8d56-e6dbe81205e8.JPG)
 ![Capture (1)](https://user-images.githubusercontent.com/87566904/127742657-69025fce-5378-4655-8f33-3f4bebfd432a.JPG)
 
 Output:
+
+
 ![Capture1](https://user-images.githubusercontent.com/87566904/127742671-13443126-9312-4e04-855b-bf1d5f187d6c.JPG)
 
