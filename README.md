@@ -5,7 +5,7 @@ This depicts a simple LRU Page Replacement Algorithm
 The user interaction is as follows:
 1. The user must first enter the number of pages in the memory.
 2. The sequence of page numbers in the memory is then entered.
-![Capture](https://user-images.githubusercontent.com/87566904/127742479-fdbc235d-044f-427e-b81c-36341f138aee.JPG)
+
 
 
 IMPLEMENTATION SCREENSHOTS:
