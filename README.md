@@ -26,3 +26,7 @@ Output:
 
 ![Capture1](https://user-images.githubusercontent.com/87566904/127742671-13443126-9312-4e04-855b-bf1d5f187d6c.JPG)
 
+
+
+
+##This is an example of creating a new branch and for implementing the pull requests.##
